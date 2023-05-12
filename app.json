@@ -1,7 +1,7 @@
 {
    "name": "Ban All Bot",
    "description": "Telegram Bot",
-   "repository": "https://github.com/team-katil/BanAllBot",
+   "repository": "https://github.com/THE-VIP-BOY-OP/VIP-BANALL",
    "logo": "https://telegra.ph/file/1f63de6e3ce65ef6b9f00.jpg",
    "image": "heroku/python",
    "env": {
@@ -22,7 +22,7 @@
       },      
       "SUDO": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "6201816030 5359126737",
             "required": true  
       }
    },
